@@ -1,5 +1,5 @@
 *.o
+*.txt
 hw5_tests/
 wordle-driver
 schedwork-driver
-
